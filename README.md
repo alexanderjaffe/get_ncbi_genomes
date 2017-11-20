@@ -28,5 +28,6 @@ example `search_terms.txt`:
 ```
 Klebsiella NOT phage
 Chloroflexi AND 2015
+Aenigmarchaeota
 ...
 ```
