@@ -20,7 +20,7 @@ optional arguments:
 `ncbi_fasta` : directory containing fasta files for downloaded genomes <br>
 `ncbi_genomes.master` : log file of format genome_id\tauthor\tgenome_name <br>
 
-example `search_terms.txt`:
+<b>example</br> `search_terms.txt`:
 
 ```
 Klebsiella NOT phage
@@ -28,4 +28,4 @@ Chloroflexi AND 2015
 Aenigmarchaeota
 ...
 ```
-<b>NB: Recommended to check results of search terms manually before running script. </b>
+<b>NB: Recommended to manually check results of search terms before running script. </b>
