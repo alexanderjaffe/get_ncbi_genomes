@@ -2,10 +2,7 @@
 Download genomes from NCBI Genome database using compound queries.
 
 ```
-usage: get_ncbi_genomes_min.py [-h] -s SEARCH_TERMS -o OUTPUT_DIRECTORY -f
-                               FASTA
-
-CHECKS NCBI FOR GENOMES + DOWNLOADS
+usage: get_ncbi_genomes_min.py [-h] -s SEARCH_TERMS -o OUTPUT_DIRECTORY -f FASTA
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -17,7 +14,7 @@ optional arguments:
                         y/n download genomes.
 ```
 
-Output:
+<b>Output:</b>
 
 `ncbi_gbk` : directory containing genbank files for downloaded genomes <br>
 `ncbi_fasta` : directory containing fasta files for downloaded genomes <br>
@@ -31,3 +28,4 @@ Chloroflexi AND 2015
 Aenigmarchaeota
 ...
 ```
+<b>NB: Recommended to check results of search terms manually before running script. </b>
