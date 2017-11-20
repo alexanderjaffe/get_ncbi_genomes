@@ -19,9 +19,9 @@ optional arguments:
 
 Output:
 
-`ncbi_gbk` : directory containing genbank files for downloaded genomes
-`ncbi_fasta` : directory containing fasta files for downloaded genomes
-`ncbi_genomes.master` : log file of format genome_id\tauthor\tgenome_name
+`ncbi_gbk` : directory containing genbank files for downloaded genomes <br>
+`ncbi_fasta` : directory containing fasta files for downloaded genomes <br>
+`ncbi_genomes.master` : log file of format genome_id\tauthor\tgenome_name <br>
 
 example `search_terms.txt`:
 
