@@ -1,5 +1,5 @@
 # get_ncbi_genomes_min.py
-Download genomes from NCBI Genome database using compound queries.
+Download genomes from NCBI Genome database (WGS + Genbank) using compound queries.
 
 ```
 usage: get_ncbi_genomes_min.py [-h] -s SEARCH_TERMS -o OUTPUT_DIRECTORY -f FASTA
