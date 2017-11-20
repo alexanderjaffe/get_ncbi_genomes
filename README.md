@@ -20,7 +20,7 @@ optional arguments:
 `ncbi_fasta` : directory containing fasta files for downloaded genomes <br>
 `ncbi_genomes.master` : log file of format genome_id\tauthor\tgenome_name <br>
 
-<b>example</br> `search_terms.txt`:
+example `search_terms.txt`:
 
 ```
 Klebsiella NOT phage
